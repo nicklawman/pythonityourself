@@ -6,11 +6,19 @@
 - make simple tools not complicated ones
 - glue simple tools together to get things done, instead of building a single super tool under UNIX design philosphy
 
-# python basic
+# features
+- use python
+- combined with html/css/javascript as interface
+- leverage power of AI
+- make things to make life easier, fun and productive
 
-# python advanced concept 
+# PART I The Projects
 
-# python flask framework 
+# time uid
+
+# psqlite - use python to handle sqlite db 
+
+# hijack
 
 # tmd language
 - add some tags to add features to markdown
@@ -27,3 +35,12 @@
 # talkppt
 - convert a tmdppt to a talk ppt
 - convert talk ppt to a video file
+
+# PART II About Python
+# python basic - quick intro to python langauge
+
+# python advanced concept 
+
+# python flask framework 
+
+# brief on html 
